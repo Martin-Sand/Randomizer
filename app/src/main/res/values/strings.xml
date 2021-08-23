@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">randy</string>
+    <string-array name="statsOptions">
+        <item id="header">STATS</item>
+        <item id="allRounds">All Rounds</item>
+        <item id ="leaderboards">Leaderboard</item>
+    </string-array>
+</resources>
